@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Myportal-main\\Myportal\\Myportal.csproj": {}
+    "E:\\Myportal\\Myportal.csproj": {}
   },
   "projects": {
-    "E:\\Myportal-main\\Myportal\\Myportal.csproj": {
+    "E:\\Myportal\\Myportal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Myportal-main\\Myportal\\Myportal.csproj",
+        "projectUniqueName": "E:\\Myportal\\Myportal.csproj",
         "projectName": "Myportal",
-        "projectPath": "E:\\Myportal-main\\Myportal\\Myportal.csproj",
+        "projectPath": "E:\\Myportal\\Myportal.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Myportal-main\\Myportal\\obj\\",
+        "outputPath": "E:\\Myportal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
