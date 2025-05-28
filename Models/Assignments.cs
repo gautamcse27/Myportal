@@ -1,6 +1,6 @@
 namespace Myportal.Models
 {
-    public class Assignment
+    public class Assignments
     {
         public int Id { get; set; }
         public int AssetId { get; set; }
